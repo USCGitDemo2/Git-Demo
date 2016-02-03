@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void func1(){
+	cout << "I do stuff" << endl;
+}
+
 void necessaryfeature(){
 	//asdjfl;asdjflas
 	cout << "I am doing well" << endl;
