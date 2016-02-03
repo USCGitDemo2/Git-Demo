@@ -6,6 +6,10 @@ void func2(){
 	cout << "I do more stuff" << endl;
 }
 
+void func1(){
+	cout << "I do stuff" << endl;
+}
+
 void necessaryfeature(){
 	//asdjfl;asdjflas
 	cout << "I am doing well" << endl;
