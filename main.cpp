@@ -5,6 +5,10 @@ using namespace std;
 void necessaryfeature(){
 	//asdjfl;asdjflas
 	cout << "I am doing well" << endl;
+
+	cout << "omg I did it" << endl;
+	cout << "omg I did it" << endl;
+	cout << "omg I did it" << endl;
 	cout << "omg I did it" << endl;
 }
 
